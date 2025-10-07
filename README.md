@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 Feature Topics
+## 📚 Features Topics
 
 - 🔐 JWT Authentication (Signup / Login / Logout)
 - 🛒 Cart Management
